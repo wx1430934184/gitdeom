@@ -4,3 +4,6 @@ main{
 method{
 	print "this is pen"
 }
+method1{
+	print "hehe"
+}
