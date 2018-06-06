@@ -1,3 +1,6 @@
 main{
 	print "this is main"
 }
+method{
+	print "this is pen"
+}
