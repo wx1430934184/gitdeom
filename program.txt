@@ -10,9 +10,9 @@ method1{
 method2 {
 	print "haha"		
 }
-method3(
+method3{
 	print "jiji";
-)
+}
 method4{
 	print "tiantian";
 }
